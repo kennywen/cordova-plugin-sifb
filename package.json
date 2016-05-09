@@ -1,0 +1,18 @@
+{
+  "name": "Super",
+  "version": "0.0.1",
+  "description": "Super Des",
+  "cordova": {
+    "id": "org.super.cool",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "kenny",
+  "license": "MIT"
+}
